@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+#EXTINF:-1,
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
