@@ -1,6 +1,3 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1
-https://allcutv.rctiplus.id/rcti-sdi.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
