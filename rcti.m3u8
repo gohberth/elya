@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-https://cors.globetv.app/http://103.66.62.83:8000/play/a00v/index.m3u8
+#EXT-X-TARGETDURATION:6
+https://allcutv.rctiplus.id/rcti2023.m3u8
