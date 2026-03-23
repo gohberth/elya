@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1,
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+https://cors.globetv.app/http://103.66.62.83:8000/play/a00v/index.m3u8
