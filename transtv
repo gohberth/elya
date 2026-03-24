@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,FRAME-RATE=30.000
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w129988210_b744100_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b744100_sleng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=862x484,FRAME-RATE=30.000
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w129988210_b544100_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b544100_sleng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,FRAME-RATE=30.000
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w129988210_b344100_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b344100_sleng.m3u8
