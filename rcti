@@ -1,6 +1,7 @@
 #EXTM3U
 ##EXT-X-VERSION:3
 ##EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,FRAME-RATE=30.000
-#EXTINF:-1
+#EXT-X-TARGETDURATION:10
+#EXTINF:10
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
