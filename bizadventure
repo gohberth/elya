@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080,FRAME-RATE=30.000
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w1699677411_b5256000_slen.m3u8
