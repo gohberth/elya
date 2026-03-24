@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080,FRAME-RATE=30.000
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w1236192896_b6256000_slen.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,FRAME-RATE=30.000
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w1236192896_b4256000_slen.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=864x480,FRAME-RATE=30.000
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w1236192896_b2256000_slen.m3u8
