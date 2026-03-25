@@ -48,9 +48,11 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 #EXTINF:-1 group-title="INDONESIA",TVRI SPORT
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 #EXTINF:-1 group-title="INDONESIA",TRANS7 2
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=26bd60e03bbed7819eea0b27075a1897&key=d221ba6a6ab66e3083c001d2c4a3e5c5
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 #EXTINF:-1 group-title="INDONESIA",TRANS TV 2
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://testfunctionlive.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=334950781f60a66f5e58324b70ac675d7key=73caca97be8999ce9cfeb3babad8669d
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 #EXTINF:-1 ,
