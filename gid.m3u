@@ -11,9 +11,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 #EXTINF:-1 group-title="INDONESIA",BTV
 https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_1500000=5-3277707030000000.mpd
 #EXTINF:-1 group-title="INDONESIA",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2097905317_b384000_sleng.m3u8
 http://iptv.kilas7.com/live/kaukia/asdfrewq/13.m3u8
 #EXTINF:-1 group-title="INDONESIA",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8
 http://iptv.kilas7.com/live/kaukia/asdfrewq/12.m3u8
 #EXTINF:-1 group-title="INDONESIA",GARUDATV
@@ -53,8 +55,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 group-title="INDONESIA",NUSANTARA TV
 https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_1500000=5-3277707030000000.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",PRAMBORS TV
-https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA",RCTI
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/rcti-avc1_1500000=5-3277707030000000.mpd
 #EXTINF:-1 group-title="INDONESIA",RTV
@@ -64,15 +64,15 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_1500000=5-32777070300
 https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 group-title="INDONESIA",SINDONEWS TV
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/mncnews-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA",THRILL
-https://cdn10jtedge.indihometv.com/atm/DASH/thrill/thrill-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
-http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 #EXTINF:-1 group-title="INDONESIA",TRANS7
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-http://103.66.62.83:8000/play/a00u/index.m3u8
+#http://103.66.62.83:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TRANS TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
+#https://livestream.transtv.co.id/stream/live/ttv.m3u8
+#http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 #EXTINF:-1 group-title="INDONESIA",TVONE
 https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 group-title="INDONESIA",TVRI
@@ -101,8 +101,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/kplus-avc1_1500000=5-327770703
 https://cdn10jtedge.indihometv.com/atm/DASH/kix/kix-avc1_1500000=5-3277707030000000.mpd
 #EXTINF:-1 group-title="MOVIE",ROCK ACTION
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_1500000=5-3277707030000000.mpd
+#EXTINF:-1 group-title="MOVIE",THRILL
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/thrill-avc1_1500000=5-3277707030000000.mpd
 #EXTINF:-1 group-title="MOVIE",WARNER BROS
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/warner-avc1_1500000=5-3277707030000000.mpd
+=====================================================================================================================
+#EXTINF:-1 group-title="MUSIK",PRAMBORS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
 =====================================================================================================================
 #EXTINF:-1 group-title="KIDS",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w1236192896_b6256000_slen.m3u8
