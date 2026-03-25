@@ -6,7 +6,8 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
 #EXTINF:-1 group-title="INDONESIA",BERITA SATU
 https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 #EXTINF:-1 group-title="INDONESIA",BN CHANNEL
-https://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 #EXTINF:-1 group-title="INDONESIA",BTV
 https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA",CNBC INDONESIA
@@ -69,8 +70,4 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 #EXTINF:-1 group-title="INDONESIA",TVRI SPORT
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
-#EXTINF:-1, MENTARI TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd?encp=&uid=&expp=
 #EXTINF:-1 ,
