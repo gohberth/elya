@@ -55,4 +55,10 @@ https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=334950781f60a66f5e58324b70ac675d7key=73caca97be8999ce9cfeb3babad8669d
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+#EXTINF:-1 group-title="INDONESIA",TRANS7 3
+http://103.66.62.83:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TRANS TV 3
+http://103.66.62.83:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",TRANS TV 4
+http://103.66.62.83:8000/play/a01y/index.m3u8
 #EXTINF:-1 ,
