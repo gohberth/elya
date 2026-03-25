@@ -1,7 +1,28 @@
 #EXTM3U
-#EXTINF:-1 group-title="INDONESIA",BERITA SATU
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="BERITA SATU" group-title="INDONESIA",BERITA SATU
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",RCTI
+
+#EXTINF:-1 tvg-id="RCTI" group-title="INDONESIA",RCTI
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+
+#EXTINF:-1 tvg-id="GTV" group-title="INDONESIA",GTV
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+
+#EXTINF:-1 tvg-id="INEWS" group-title="INDONESIA",INEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 tvg-id="MNCTV" group-title="INDONESIA",MNCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+
+#EXTINF:-1 tvg-id="METRO TV" group-title="INDONESIA",METRO TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN INDONESIA" group-title="INDONESIA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRANS7" group-title="INDONESIA",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" group-title="INDONESIA",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
