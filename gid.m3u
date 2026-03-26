@@ -1,279 +1,70 @@
 #EXTM3U
-#EXTINF:-1 group-title="INDONESIA",ANTARA
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/antara/antara-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA",ANTV
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
-#EXTINF:-1 group-title="INDONESIA",BERITA SATU
-https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
-#EXTINF:-1 group-title="INDONESIA",BN CHANNEL
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",BTV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA",CNBC INDONESIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2097905317_b384000_sleng.m3u8
-#http://iptv.kilas7.com/live/kaukia/asdfrewq/13.m3u8
-#EXTINF:-1 group-title="INDONESIA",CNN INDONESIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8
-#http://iptv.kilas7.com/live/kaukia/asdfrewq/12.m3u8
-#EXTINF:-1 group-title="INDONESIA",GARUDATV
-https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#EXTINF:-1 group-title="INDONESIA",GTV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/globaltv-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA",IDX CHANNEL
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/idx/idx-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA",INDONESIANA
-https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:-1 group-title="INDONESIA",INDOSIAR
-https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1 group-title="INDONESIA",INEWS
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/inews-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA",JAWAPOS TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/jawapos-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA",KTV
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://gooo.blog/opix/genx.m3u8?id=ktv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-#EXTINF:-1 group-title="INDONESIA",KOMPAS TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_1500000=5-3277707030000000.mpd
-https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-#EXTINF:-1 group-title="INDONESIA",MAGNA CHANNEL
-https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w2116082271_b2692000_sleng.m3u8
-#EXTINF:-1 group-title="INDONESIA",MDTV
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#EXTINF:-1 group-title="INDONESIA",METRO TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
-https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w563150684_b1492000_sleng.m3u8
-#EXTINF:-1 group-title="INDONESIA",MNCTV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/mnctv-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA",MOJI TV
-https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 group-title="INDONESIA",NUSANTARA TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_1500000=5-3277707030000000.mpd
-https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",RCTI
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/rcti/rcti-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA",RTV
-https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",SCTV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_1500000=5-3277707030000000.mpd
-https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 group-title="INDONESIA",SINDONEWS TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/mncnews-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="INDONESIA",TRANS7
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#http://103.66.62.83:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",TRANS TV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
-#https://livestream.transtv.co.id/stream/live/ttv.m3u8
-#http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVONE
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/tvone/tvone_asia-avc1_1500000=5-3277707030000000.mpd
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 group-title="INDONESIA",TVRI
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/TVRI-avc1_1500000=5-3277707030000000.mpd
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
-=====================================================================================================================
-#EXTINF:-1 group-title="MOVIE",CINEMAX
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="MOVIE",HBO
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/hbo-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="MOVIE",HBO FAMILY
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="MOVIE",HBO HITS
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/hbohits-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="MOVIE",HBO SIGNATURE
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="MOVIE",HITS MOVIES
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="MOVIE",THRILL
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/thrill/thrill-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="MOVIE",ZEE BIOSKOP
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_1500000=5-3277707030000000.mpd
-=====================================================================================================================
-#EXTINF:-1 group-title="MUSIK",ACTIVA TV
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 group-title="MUSIK",AFN TV
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 group-title="MUSIK",AFROBEATS TV
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="MUSIK",CDI
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-#EXTINF:-1 group-title="MUSIK",IBIZA TV
-https://wahyu1ptv.pages.dev/Ibiza.m3u8
-#EXTINF:-1 group-title="MUSIK",IM TV
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIK",K-POP CJ ENM
-https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
-#EXTINF:-1 group-title="MUSIK",K-POP SHOW CHAMPION
-https://wahyu1ptv.pages.dev/kPopCV.m3u8
-#EXTINF:-1 group-title="MUSIK",K-POP TV
-https://live.24hrkpop.com/hls/3/stream.m3u8|user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="MUSIK",MIC
-https://mic.siar.us/mic/live/mic.m3u8
-#EXTINF:-1 group-title="MUSIK",THAT'S 70S
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIK",THAT'S 80S
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIK",THAT'S ROCK
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIK",PRAMBORS TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_1500000=5-3277707030000000.mpd
-=====================================================================================================================
-#EXTINF:-1 group-title="SPORT",BARCA TV
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",BEIN SPORTS XTRA
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",FIGHT SPORTS
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/fightsport/fightsport-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="SPORT",MAX SPORTS
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/useesport/useesport-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="SPORT",MAX STREAK
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/maxstreak_asia-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="SPORT",MUTV
-https://get.perfecttv.net/mutv.mpd
-#EXTINF:-1 group-title="SPORT",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="SPORT",TVRI SPORT
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
-=====================================================================================================================
-#EXTINF:-1 group-title="KIDS",BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w1236192896_b6256000_slen.m3u8
-#EXTINF:-1 group-title="KIDS",CARTOONITO
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/boomerang-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="KIDS",CBEEBIES
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/cbeebies_asia-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="KIDS",MAX KIDS
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/indikids/indikids-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="KIDS",MY KIDZ
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/mykids/mykids-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="KIDS",NICKELODEON
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/nickelodeon-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="KIDS",VTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-=====================================================================================================================
-#EXTINF:-1 group-title="WORLD NEWS",AL JAZEERA
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/aljazeera-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="WORLD NEWS",BBC NEWS
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/bbcnews/bbcnews_asia-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="WORLD NEWS",DW TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/DWTV-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="WORLD NEWS",RT
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/rusiatv/rusiatv-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="WORLD NEWS",TVRI WORLD
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_1500000=5-3277707030000000.mpd
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-=====================================================================================================================
-#EXTINF:-1 group-title="ENTERTAINMENT",ARIRANG
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/ARIRANG_asia-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="ENTERTAINMENT",AXN
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/axn-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="ENTERTAINMENT",CCTV-4
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/CCTV_4_asia-avc1_1500000=5-3277707030000000.mpd
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",DAAI TV
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",HITS
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/hits/hits-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="ENTERTAINMENT",K+
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/kplus-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="ENTERTAINMENT",KIX
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/kix/kix-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="ENTERTAINMENT",MAX REELS
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/useeprime-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="ENTERTAINMENT",NHK WORLD JAPAN
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/NHK_WORLD_JAPAN-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="ENTERTAINMENT",ROCK ACTION
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="ENTERTAINMENT",ROCK ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/rock_entertainment_asia-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="ENTERTAINMENT",TV5MONDE
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/tv5monde-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="ENTERTAINMENT",WARNER BROS
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/warner-avc1_1500000=5-3277707030000000.mpd
-=====================================================================================================================
-#EXTINF:-1 group-title="LIFESTYLE",BIZNET ADVENTURE
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w1699677411_b5256000_slen.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",BIZNET LIFESTYLE
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w170785792_b6256000_slen.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",DENS FOOD CHANNEL
-https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",DENS LIFESTYLE
-https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",DENS SHOWBIZ
-https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
-#EXTINF:-1 group-title="LIFESTYLE",FASHION TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/fashiontv/fashiontv_asia-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="LIFESTYLE",MAX EATS
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/maxeats_asia-avc1_1500000=5-3277707030000000.mpd
-=====================================================================================================================
-#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/disco/disco-avc1_1500000=5-3277707030000000.mpd
-#EXTINF:-1 group-title="KNOWLEDGE",DMAX TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-=====================================================================================================================
+#EXTINF:-1 tvg-id="BeritaSatu.id@SD",Berita Satu
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
+#EXTINF:-1 tvg-id="BNChannel.id@SD",BN Channel
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h39/index.m3u8
+#EXTINF:-1 tvg-id="BTV.id@SD",BTV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="DAAITV.id@SD",DAAI TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id@SD",Indosiar
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id@SD",Kompas TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id@SD",Kompas TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel.id@SD",Magna Channel
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
+#EXTINF:-1 tvg-id="MDTV.id@HD",MDTV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
+#EXTINF:-1 tvg-id="MetroTV.ar@SD",Metro TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 tvg-id="Moji.id@SD",Moji
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1 tvg-id="NusantaraTV.id@SD",Nusantara TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD",Rajawali TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+#EXTINF:-1 tvg-id="SCTV.id@SD",SCTV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTINF:-1 tvg-id="tvOne.id@SD",tvOne
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SD",TVRI
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id@SD",TVRI Sport
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 ,
