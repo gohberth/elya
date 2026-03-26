@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ANTV.id@SD",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
+https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/14.ts
 #EXTINF:-1 tvg-id="BNChannel.id@SD",BN Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
