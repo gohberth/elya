@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BeritaSatu.id@SD",Berita Satu
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTINF:-1 tvg-id="ANTV.id@SD",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
 #EXTINF:-1 tvg-id="BNChannel.id@SD",BN Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -11,14 +10,30 @@ https://op-group1-swiftservehd-1.dens.tv/h/h39/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id@SD",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id@SD",DAAI TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",GARUDATV
+#EXTVLCOPT:http-referrer=https://garuda.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="GTV.id@SD",GTV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/globaltv-avc1_1500000=5-3277707030000000.mpd
 #EXTINF:-1 tvg-id="Indosiar.id@SD",Indosiar
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+#EXTINF:-1 tvg-id="iNews.id@SD",iNews
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/inews-avc1_1500000=5-3277707030000000.mpd
 #EXTINF:-1 tvg-id="KompasTV.id@SD",Kompas TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -39,6 +54,9 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 tvg-id="MNCTV.ar@SD"",MNCTV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/mnctv-avc1_1500000=5-3277707030000000.mpd
 #EXTINF:-1 tvg-id="Moji.id@SD",Moji
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -51,20 +69,29 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+#EXTINF:-1 tvg-id="RCTI.id@SD",RCTI
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/rcti-avc1_1500000=5-3277707030000000.mpd
 #EXTINF:-1 tvg-id="SCTV.id@SD",SCTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id@SD",Trans7
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id@SD",Trans TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="tvOne.id@SD",tvOne
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@SD",TVRI
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id@SD",TVRI Sport
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 ,
