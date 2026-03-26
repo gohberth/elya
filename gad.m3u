@@ -1,50 +1,80 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 1
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1100&extension=m3u8
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1101&extension=m3u8
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1115&extension=m3u8
+#EXTINF:-1 group-title="SPORT",ASTRO PREMIER LEAGUE
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/29151.m3u8
 
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 3
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1096&extension=m3u8
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1097&extension=m3u8
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1113&extension=m3u8
-
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 4
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1112&extension=m3u8
-
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 5
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1111&extension=m3u8
-
-#EXTINF:-1 group-title="SPORT",ARENA SPORT 6
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1110&extension=m3u8
-
-#EXTINF:-1 group-title="SPORT",BEIN SPORTS
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 group-title="SPORT",BAND SPORTS
+https://02.arlivre.online/bandsport/index.m3u8
 
 #EXTINF:-1 group-title="SPORT",BEIN SPORTS XTRA
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT",CCTV-5
-http://111.56.90.5/000000000000/5000000004000008885/index.m3u8
+http://125.94.244.92:7890/641886683
+
+#EXTINF:-1 group-title="SPORT",CHAMPIONS TV 5
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/29150.m3u8
 
 #EXTINF:-1 group-title="SPORT",DAZN COMBAT
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
+#EXTINF:-1 group-title="SPORT",COMBATE
+https://02.arlivre.online/combate/index.m3u8
+
 #EXTINF:-1 group-title="SPORT",ESPN
 http://dns.fontedecanais.com.br:80//live/pghostv/N3aDHbmUA6/506.ts
+http://84.17.50.102/espn/index.m3u8
+http://41.205.93.154/ESPN/index.m3u8
+https://02.arlivre.online/espn/index.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22000.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22001.m3u8
 
 #EXTINF:-1 group-title="SPORT",ESPN 2
 http://dns.fontedecanais.com.br:80//live/pghostv/N3aDHbmUA6/509.ts
+http://84.17.50.102/espn2/index.m3u8
+https://02.arlivre.online/espn2/index.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22003.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22004.m3u8
 
 #EXTINF:-1 group-title="SPORT",ESPN 3
 http://dns.fontedecanais.com.br:80//live/pghostv/N3aDHbmUA6/512.ts
+https://02.arlivre.online/espn3/index.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22006.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22007.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.m3u8
+http://dplatino.net/live/12MPremiumOct24/3LEJULrnDz/306388.m3u8
 
 #EXTINF:-1 group-title="SPORT",ESPN 4
 http://dns.fontedecanais.com.br:80//live/pghostv/N3aDHbmUA6/515.ts
+https://02.arlivre.online/espn4/index.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22009.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22010.m3u8
+http://dplatino.net/live/12MPremiumOct24/3LEJULrnDz/360917.m3u8
 
-#EXTINF:-1 group-title="SPORT",EUROSPORT 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1126&extension=m3u8
+#EXTINF:-1 group-title="SPORT",ESPN 5
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22012.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.m3u8
+
+#EXTINF:-1 group-title="SPORT",ESPN 6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22015.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.m3u8
+
+#EXTINF:-1 group-title="SPORT",FIFA+
+https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT",FOX SPORTS 1
+http://84.17.50.102/foxsports1/index.m3u8
+
+#EXTINF:-1 group-title="SPORT",NBA TV
+http://84.17.50.102/nbatv/index.m3u8
+http://212.102.60.231/NBA_TV/index.m3u8
+
+#EXTINF:-1 group-title="SPORT",NFL NETWORK
+http://84.17.50.102/nflnetwork/index.m3u8
+
+#EXTINF:-1 group-title="SPORT",PREMIERE
+https://02.arlivre.online/pre1/index.m3u8
 
 #EXTINF:-1 group-title="SPORT",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
@@ -52,58 +82,34 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="SPORT",SKY SPORTS PREMIER LEAGUE
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=ZnYpgcBhGzCP5L-g20_r5Q&e=2070148393&scheme=https
 
-#EXTINF:-1 group-title="SPORT",SPORT 1
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1124&extension=m3u8
+#EXTINF:-1 group-title="SPORT",SONY SPORTS 5
+http://116.90.120.151:8000/play/a0hb/index.m3u8
 
-#EXTINF:-1 group-title="SPORT",SPORTDIGITAL 1+
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1123&extension=m3u8
+#EXTINF:-1 group-title="SPORT",SPORTSMAN CHANNEL
+http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="SPORT",SPORTDIGITAL FUSSBALL
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1122&extension=m3u8
+#EXTINF:-1 group-title="SPORT",SPORTV
+https://02.arlivre.online/sportv/index.m3u8
 
-#EXTINF:-1 group-title="SPORT",SPORTKLUB 1
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1091&extension=m3u8
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1092&extension=m3u8
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1108&extension=m3u8
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1109&extension=m3u8
+#EXTINF:-1 group-title="SPORT",SPORTV 2
+https://02.arlivre.online/sportv2/index.m3u8
 
-#EXTINF:-1 group-title="SPORT",SPORTKLUB 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1090&extension=m3u8
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1107&extension=m3u8
+#EXTINF:-1 group-title="SPORT",SPORTV 3
+https://02.arlivre.online/sportv3/index.m3u8
 
-#EXTINF:-1 group-title="SPORT",SPORTKLUB 3
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1106&extension=m3u8
+#EXTINF:-1 group-title="SPORT",STAR SPORTS 1
+http://116.90.120.151:8000/play/a0gs/index.m3u8
+http://116.90.120.151:8000/play/a0je/index.m3u8
 
-#EXTINF:-1 group-title="SPORT",SPORTKLUB 4
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1105&extension=m3u8
-
-#EXTINF:-1 group-title="SPORT",SPORTKLUB 5
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1104&extension=m3u8
-
-#EXTINF:-1 group-title="SPORT",SPORTKLUB GOLF
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1102&extension=m3u8
+#EXTINF:-1 group-title="SPORT",STAR SPORTS 2
+http://116.90.120.151:8000/play/a0hi/index.m3u8
+http://116.90.120.151:8000/play/a0jb/index.m3u8
 
 #EXTINF:-1 group-title="SPORT",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 group-title="SPORT",UFC TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
-
-
-
-#EXTINF:-1 group-title="SPORT",
-
-#EXTINF:-1 group-title="SPORT",
-
-#EXTINF:-1 group-title="SPORT",
-
-#EXTINF:-1 group-title="SPORT",
-
-#EXTINF:-1 group-title="SPORT",
-
-#EXTINF:-1 group-title="SPORT",
-
-#EXTINF:-1 group-title="SPORT",
 
 
 #EXTINF:-1 ,
