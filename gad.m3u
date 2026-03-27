@@ -143,6 +143,8 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1277
 #EXTINF:-1 group-title="Channel",Sportstars 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 #EXTINF:-1 group-title="Channel",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -151,17 +153,255 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-m
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 group-title="Channel",TVRI Sport
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"}
+https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs
 #EXTINF:-1 group-title="Channel",RTVS Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Channel",SSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
+#EXTINF:-1 group-title="Channel",DAZN COMBAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Channel",DAZN RINGSIDE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+#EXTINF:-1 group-title="Channel",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
+#EXTINF:-1 group-title="Channel",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev2.m3u8
+#EXTINF:-1 group-title="Channel",DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev3.m3u8
+#EXTINF:-1 group-title="Channel",DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev4.m3u8
+#EXTINF:-1 group-title="Channel",DAZN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
+#EXTINF:-1 group-title="Channel",DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/25117
+#EXTINF:-1 group-title="Channel",Ziggo Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/ZiggoSport1.m3u8
+#EXTINF:-1 group-title="Channel",Ziggo Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/ZiggoSport2.m3u8
+#EXTINF:-1 group-title="Channel",Ziggo Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/ZiggoSport3.m3u8
+#EXTINF:-1 group-title="Channel",Ziggo Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/ZiggoSport4.m3u8
+#EXTINF:-1 group-title="Channel",Ziggo Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/ZiggoSport5.m3u8
+#EXTINF:-1 group-title="Channel",Ziggo Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/ZiggoSport6.m3u8
+#EXTINF:-1 group-title="Channel",Arena Adrenalin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27359
+#EXTINF:-1 group-title="Channel",Arena Fight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19615
+#EXTINF:-1 group-title="Channel",Arena Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19011
+#EXTINF:-1 group-title="Channel",Arena Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26459
+#EXTINF:-1 group-title="Channel",Arena Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19012
+#EXTINF:-1 group-title="Channel",Arena Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26460
+#EXTINF:-1 group-title="Channel",Arena Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/19013
+#EXTINF:-1 group-title="Channel",Arena Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26461
+#EXTINF:-1 group-title="Channel",Arena Premium 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27356
+#EXTINF:-1 group-title="Channel",Arena Premium 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27357
+#EXTINF:-1 group-title="Channel",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/21550
+#EXTINF:-1 group-title="Channel",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1189
+#EXTINF:-1 group-title="Channel",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20477
+#EXTINF:-1 group-title="Channel",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1177
+#EXTINF:-1 group-title="Channel",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1187
+#EXTINF:-1 group-title="Channel",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20478
+#EXTINF:-1 group-title="Channel",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1176
+#EXTINF:-1 group-title="Channel",Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1185
+#EXTINF:-1 group-title="Channel",Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20479
+#EXTINF:-1 group-title="Channel",Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1175
+#EXTINF:-1 group-title="Channel",Arena Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1183
+#EXTINF:-1 group-title="Channel",Arena Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20480
+#EXTINF:-1 group-title="Channel",Arena Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1174
+#EXTINF:-1 group-title="Channel",Arena Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1181
+#EXTINF:-1 group-title="Channel",Arena Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22065
+#EXTINF:-1 group-title="Channel",Arena Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1173
+#EXTINF:-1 group-title="Channel",Arena Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1179
+#EXTINF:-1 group-title="Channel",Arena Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22066
+#EXTINF:-1 group-title="Channel",Arena Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26792
+#EXTINF:-1 group-title="Channel",Arena Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17669
+#EXTINF:-1 group-title="Channel",Arena Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22067
+#EXTINF:-1 group-title="Channel",Arena Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26793
+#EXTINF:-1 group-title="Channel",Arena Sport 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17670
+#EXTINF:-1 group-title="Channel",Arena Sport 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22068
+#EXTINF:-1 group-title="Channel",Arena Sport 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26794
+#EXTINF:-1 group-title="Channel",Arena Sport 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17671
+#EXTINF:-1 group-title="Channel",Arena Sport 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22069
+#EXTINF:-1 group-title="Channel",Arena Sport 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26795
+#EXTINF:-1 group-title="Channel",Arena Sport 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/17672
+#EXTINF:-1 group-title="Channel",Arena Sport 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/22070
+#EXTINF:-1 group-title="Channel",Arena Sport 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26796
+#EXTINF:-1 group-title="Channel",Arena Tenis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27358
+#EXTINF:-1 group-title="Channel",SS Arena UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/1160
+#EXTINF:-1 group-title="Channel",Astro Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://zozotv.xyz:8080/live/abemohdz8/zoz139/154.ts
+#EXTINF:-1 group-title="Channel",Astro Arena 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://zozotv.xyz:8080/live/abemohdz8/zoz139/400.ts
+#EXTINF:-1 group-title="Channel",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd
+#EXTINF:-1 group-title="Channel",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://estreams.tv.nej.cz/dash/CH_ARENASPORT2_Portable.ism/playlist.mpd
+#EXTINF:-1 group-title="Channel",Sky Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://exm3u.extraott.com:80/6JG6WQTK/1RS973F7/29027
+#EXTINF:-1 group-title="Channel",Sky Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 group-title="Channel",Sky Sports EPL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
+#EXTINF:-1 group-title="Channel",Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://exm3u.extraott.com:80/6JG6WQTK/1RS973F7/29025
+#EXTINF:-1 group-title="Channel",Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="Channel",Sky Sports Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
+#EXTINF:-1 group-title="Channel",Sky Sports Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9293/index.m3u8
+#EXTINF:-1 group-title="Channel",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
+#EXTINF:-1 group-title="Channel",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 group-title="Channel",Sky Sports Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9310/index.m3u8
+#EXTINF:-1 group-title="Channel",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Channel",Sky Sports Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
+#EXTINF:-1 group-title="Channel",Sky Sports Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 group-title="Channel",TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt1.m3u8
+#EXTINF:-1 group-title="Channel",TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt2.m3u8
+#EXTINF:-1 group-title="Channel",TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt3.m3u8
+#EXTINF:-1 group-title="Channel",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt4.m3u8
 
 #EXTINF:-1,
