@@ -117,7 +117,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id@SD",TVRI Sport
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 #EXTINF:-1 tvg-id="VTV.id@SD",VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 http://103.66.62.83:8000/play/a00c/index.m3u8
